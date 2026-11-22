@@ -3,6 +3,11 @@
 
 I evaluate AI systems for a living: LLM responses, AI-agent behavior on multi-step tasks, speech and audio data, and content safety, in English and Arabic. Nearly three years of freelance and contract work across AI evaluation platforms, alongside more than five years as a licensed anesthesia technician in Egypt, which I bring to healthcare-related AI content.
 
+## Featured projects
+- [llm-eval-harness](https://github.com/omar12209388-dot/llm-eval-harness): rubric-based LLM response evaluation in English and Arabic; deterministic scorers, JSON/HTML reports, CI gate (Python, synthetic demo data).
+- [annotation-qa-toolkit](https://github.com/omar12209388-dot/annotation-qa-toolkit): second-level QA audits for annotation batches; agreement metrics, gold-set accuracy audits, PII screening, audit sampling (Python, synthetic demo data).
+- [arabic-data-quality](https://github.com/omar12209388-dot/arabic-data-quality): quality checks for Arabic and mixed Arabic-English text: mojibake, mixed digits, code-switching, dialect cues, normalization (Python).
+
 ## What I do
 - LLM response evaluation; second-level QA audits of annotator scores and LLM-judge verdicts
 - AI-agent evaluation on multi-step tasks
@@ -20,4 +25,4 @@ Freelance and contract project work: Mindrift, micro1, Outlier, Yandex, RWS, TEL
 ## Links
 - Portfolio: https://files.instinct.com/cnf3bokg9wkz-omar-saad-ai-qa-evaluation
 - CV: https://files.instinct.com/fdjo6n627jqg-omar-saad-ai-qa-evaluation-cv
-- LinkedIn: linkedin.com/in/omar-ashraf-saad
+- LinkedIn: linkedin.com/in/omar-elsaadawy
