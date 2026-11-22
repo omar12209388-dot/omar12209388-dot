@@ -19,5 +19,5 @@ Freelance and contract project work: Mindrift, micro1, Outlier, Yandex, RWS, TEL
 
 ## Links
 - Portfolio: https://files.instinct.com/cnf3bokg9wkz-omar-saad-ai-qa-evaluation
-- CV: Omar_Saad_CV.pdf in the omar-portfolio repository
+- CV: https://files.instinct.com/fdjo6n627jqg-omar-saad-ai-qa-evaluation-cv
 - LinkedIn: linkedin.com/in/omar-ashraf-saad
